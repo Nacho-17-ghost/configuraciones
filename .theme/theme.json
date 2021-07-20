@@ -1,0 +1,9 @@
+{
+    "qtile": {
+        "wm": "material-ocean",
+        "alacritty": "nord"
+    },
+    "spectrwm": {
+        "alacritty": "material-ocean"
+    }
+}
