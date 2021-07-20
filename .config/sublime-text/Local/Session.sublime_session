@@ -1,0 +1,826 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 4113,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 747.0,
+		"new_window_maximized": false,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"color",
+						"color4"
+					],
+					[
+						"col",
+						"colors"
+					],
+					[
+						"clo",
+						"color2"
+					],
+					[
+						"colo",
+						"color3"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/ghost/.config/gtk-3.0/settings.ini",
+				"/home/ghost/.config/qtile/settings/keys.py",
+				"/home/ghost/.config/qtile/settings/groups.py",
+				"/home/ghost/.config/qtile/themes/nord.json",
+				"/home/ghost/.config/qtile/settings/widgets.py",
+				"/home/ghost/.config/qtile/settings/screens.py",
+				"/home/ghost/.config/qtile/settings/layouts.py",
+				"/home/ghost/.config/qtile/config.py",
+				"/home/ghost/.config/qtile/settings/path.py",
+				"/home/ghost/.config/qtile/settings/__init__.py",
+				"/home/ghost/.config/qtile/settings/theme.py",
+				"/home/ghost/.config/qtile/config.json",
+				"/home/ghost/.config/qtile/themes/material-ocean.json",
+				"/home/ghost/.config/qtile/ls",
+				"/home/ghost/.config/qtile/qtile/settings/widgets.py",
+				"/home/ghost/qtile/settings/widgets.py",
+				"/home/ghost/.theme/set-themes.py",
+				"/home/ghost/.theme/theme.json",
+				"/home/ghost/.config/qtile/autostart.sh"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1366.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"color",
+						"color4"
+					],
+					[
+						"col",
+						"colors"
+					],
+					[
+						"clo",
+						"color2"
+					],
+					[
+						"colo",
+						"color3"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/ghost/.gtkrc-2.0",
+					"settings":
+					{
+						"buffer_size": 464,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							1,
+							"insert",
+							{
+								"characters": "Bli"
+							},
+							"BAAAAB8AAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAAAQAAABQbHVtIAAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACIAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAHwAAAAAAAAAjAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							1,
+							"left_delete",
+							null,
+							"AQAAACEAAAAAAAAAIQAAAAAAAAABAAAAaQ",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAIgAAAAAAAAAiAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": "ueberr"
+							},
+							"BgAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACcAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							1,
+							"insert",
+							{
+								"characters": "y"
+							},
+							"AQAAACcAAAAAAAAAKAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							4,
+							"left_delete",
+							null,
+							"BAAAAFEAAAAAAAAAUQAAAAAAAAABAAAAbVAAAAAAAAAAUAAAAAAAAAABAAAAdU8AAAAAAAAATwAAAAAAAAABAAAAbE4AAAAAAAAATgAAAAAAAAABAAAAUA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAUgAAAAAAAABSAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							11,
+							1,
+							"insert",
+							{
+								"characters": "N"
+							},
+							"AQAAAE4AAAAAAAAATwAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAATgAAAAAAAABOAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							12,
+							1,
+							"left_delete",
+							null,
+							"AQAAAE4AAAAAAAAATgAAAAAAAAABAAAATg",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAATwAAAAAAAABPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							13,
+							1,
+							"insert",
+							{
+								"characters": "Blie"
+							},
+							"BAAAAE4AAAAAAAAATwAAAAAAAAAAAAAATwAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFEAAAAAAAAAAAAAAFEAAAAAAAAAUgAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAATgAAAAAAAABOAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							14,
+							2,
+							"left_delete",
+							null,
+							"AgAAAFEAAAAAAAAAUQAAAAAAAAABAAAAZVAAAAAAAAAAUAAAAAAAAAABAAAAaQ",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAUgAAAAAAAABSAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							15,
+							1,
+							"insert",
+							{
+								"characters": "uebe"
+							},
+							"BAAAAFAAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAABSAAAAAAAAAAAAAABSAAAAAAAAAFMAAAAAAAAAAAAAAFMAAAAAAAAAVAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							16,
+							1,
+							"left_delete",
+							null,
+							"AQAAAFMAAAAAAAAAUwAAAAAAAAABAAAAZQ",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAVAAAAAAAAABUAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							17,
+							1,
+							"insert",
+							{
+								"characters": "erru"
+							},
+							"BAAAAFMAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABVAAAAAAAAAAAAAABVAAAAAAAAAFYAAAAAAAAAAAAAAFYAAAAAAAAAVwAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAUwAAAAAAAABTAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							18,
+							1,
+							"left_delete",
+							null,
+							"AQAAAFYAAAAAAAAAVgAAAAAAAAABAAAAdQ",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAVwAAAAAAAABXAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							19,
+							1,
+							"insert",
+							{
+								"characters": "y"
+							},
+							"AQAAAFYAAAAAAAAAVwAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAVgAAAAAAAABWAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							1,
+							9,
+							"left_delete",
+							null,
+							"CQAAAFYAAAAAAAAAVgAAAAAAAAABAAAAeVUAAAAAAAAAVQAAAAAAAAABAAAAclQAAAAAAAAAVAAAAAAAAAABAAAAclMAAAAAAAAAUwAAAAAAAAABAAAAZVIAAAAAAAAAUgAAAAAAAAABAAAAYlEAAAAAAAAAUQAAAAAAAAABAAAAZVAAAAAAAAAAUAAAAAAAAAABAAAAdU8AAAAAAAAATwAAAAAAAAABAAAAbE4AAAAAAAAATgAAAAAAAAABAAAAQg",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAFcAAAAAAAAAVwAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							2,
+							1,
+							"paste",
+							null,
+							"AQAAAE4AAAAAAAAAVAAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAE4AAAAAAAAATgAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							5,
+							9,
+							"left_delete",
+							null,
+							"CQAAACcAAAAAAAAAJwAAAAAAAAABAAAAeSYAAAAAAAAAJgAAAAAAAAABAAAAciUAAAAAAAAAJQAAAAAAAAABAAAAciQAAAAAAAAAJAAAAAAAAAABAAAAZSMAAAAAAAAAIwAAAAAAAAABAAAAYiIAAAAAAAAAIgAAAAAAAAABAAAAZSEAAAAAAAAAIQAAAAAAAAABAAAAdSAAAAAAAAAAIAAAAAAAAAABAAAAbB8AAAAAAAAAHwAAAAAAAAABAAAAQg",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							6,
+							1,
+							"paste",
+							null,
+							"AQAAAB8AAAAAAAAAJQAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAB8AAAAAAAAAHwAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							3,
+							11,
+							"left_delete",
+							null,
+							"CwAAAFUAAAAAAAAAVQAAAAAAAAABAAAAdVQAAAAAAAAAVAAAAAAAAAABAAAAclMAAAAAAAAAUwAAAAAAAAABAAAAdVIAAAAAAAAAUgAAAAAAAAABAAAAU1EAAAAAAAAAUQAAAAAAAAABAAAALVAAAAAAAAAAUAAAAAAAAAABAAAAeU8AAAAAAAAATwAAAAAAAAABAAAAck4AAAAAAAAATgAAAAAAAAABAAAAck0AAAAAAAAATQAAAAAAAAABAAAAZUwAAAAAAAAATAAAAAAAAAABAAAAaEsAAAAAAAAASwAAAAAAAAABAAAAQw",
+							"AQAAAAAAAAABAAAAVgAAAAAAAABWAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							1,
+							"paste",
+							null,
+							"AQAAAEsAAAAAAAAAWQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAASwAAAAAAAABLAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							8,
+							6,
+							"left_delete",
+							null,
+							"BgAAACQAAAAAAAAAJAAAAAAAAAABAAAAeSMAAAAAAAAAIwAAAAAAAAABAAAAciIAAAAAAAAAIgAAAAAAAAABAAAAciEAAAAAAAAAIQAAAAAAAAABAAAAZSAAAAAAAAAAIAAAAAAAAAABAAAAaB8AAAAAAAAAHwAAAAAAAAABAAAAQw",
+							"AQAAAAAAAAABAAAAJQAAAAAAAAAlAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"paste",
+							null,
+							"AQAAAB8AAAAAAAAALQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAHwAAAAAAAAAfAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							5,
+							"left_delete",
+							null,
+							"BQAAACwAAAAAAAAALAAAAAAAAAABAAAAdSsAAAAAAAAAKwAAAAAAAAABAAAAcioAAAAAAAAAKgAAAAAAAAABAAAAdSkAAAAAAAAAKQAAAAAAAAABAAAAUygAAAAAAAAAKAAAAAAAAAABAAAALQ",
+							"AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/ghost/.config/gtk-3.0/settings.ini",
+					"settings":
+					{
+						"buffer_size": 534,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							1,
+							"insert",
+							{
+								"characters": "Bluev"
+							},
+							"BgAAACkAAAAAAAAAKgAAAAAAAAAAAAAAKgAAAAAAAAAqAAAAAAAAAAQAAABQbHVtKgAAAAAAAAArAAAAAAAAAAAAAAArAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAALQAAAAAAAAAAAAAALQAAAAAAAAAuAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAKQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							1,
+							"left_delete",
+							null,
+							"AQAAAC0AAAAAAAAALQAAAAAAAAABAAAAdg",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAALgAAAAAAAAAuAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": "berry"
+							},
+							"BQAAAC0AAAAAAAAALgAAAAAAAAAAAAAALgAAAAAAAAAvAAAAAAAAAAAAAAAvAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAyAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							7,
+							4,
+							"left_delete",
+							null,
+							"BAAAAFkAAAAAAAAAWQAAAAAAAAABAAAAbVgAAAAAAAAAWAAAAAAAAAABAAAAdVcAAAAAAAAAVwAAAAAAAAABAAAAbFYAAAAAAAAAVgAAAAAAAAABAAAAUA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAgHNA"
+						],
+						[
+							8,
+							1,
+							"insert",
+							{
+								"characters": "Blue"
+							},
+							"BAAAAFYAAAAAAAAAVwAAAAAAAAAAAAAAVwAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFkAAAAAAAAAAAAAAFkAAAAAAAAAWgAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAVgAAAAAAAABWAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"insert",
+							{
+								"characters": "berry"
+							},
+							"BQAAAFoAAAAAAAAAWwAAAAAAAAAAAAAAWwAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAF0AAAAAAAAAAAAAAF0AAAAAAAAAXgAAAAAAAAAAAAAAXgAAAAAAAABfAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							3,
+							9,
+							"left_delete",
+							null,
+							"CQAAAF4AAAAAAAAAXgAAAAAAAAABAAAAeV0AAAAAAAAAXQAAAAAAAAABAAAAclwAAAAAAAAAXAAAAAAAAAABAAAAclsAAAAAAAAAWwAAAAAAAAABAAAAZVoAAAAAAAAAWgAAAAAAAAABAAAAYlkAAAAAAAAAWQAAAAAAAAABAAAAZVgAAAAAAAAAWAAAAAAAAAABAAAAdVcAAAAAAAAAVwAAAAAAAAABAAAAbFYAAAAAAAAAVgAAAAAAAAABAAAAQg",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAF8AAAAAAAAAXwAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							4,
+							1,
+							"paste_and_indent",
+							null,
+							"AQAAAFYAAAAAAAAAXAAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAFYAAAAAAAAAVgAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							6,
+							9,
+							"left_delete",
+							null,
+							"CQAAADEAAAAAAAAAMQAAAAAAAAABAAAAeTAAAAAAAAAAMAAAAAAAAAABAAAAci8AAAAAAAAALwAAAAAAAAABAAAAci4AAAAAAAAALgAAAAAAAAABAAAAZS0AAAAAAAAALQAAAAAAAAABAAAAYiwAAAAAAAAALAAAAAAAAAABAAAAZSsAAAAAAAAAKwAAAAAAAAABAAAAdSoAAAAAAAAAKgAAAAAAAAABAAAAbCkAAAAAAAAAKQAAAAAAAAABAAAAQg",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADIAAAAAAAAAMgAAAAAAAAAAAAAAAIB0QA"
+						],
+						[
+							7,
+							1,
+							"paste_and_indent",
+							null,
+							"AQAAACkAAAAAAAAALwAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACkAAAAAAAAAKQAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							3,
+							11,
+							"left_delete",
+							null,
+							"CwAAAF0AAAAAAAAAXQAAAAAAAAABAAAAdVwAAAAAAAAAXAAAAAAAAAABAAAAclsAAAAAAAAAWwAAAAAAAAABAAAAdVoAAAAAAAAAWgAAAAAAAAABAAAAU1kAAAAAAAAAWQAAAAAAAAABAAAALVgAAAAAAAAAWAAAAAAAAAABAAAAeVcAAAAAAAAAVwAAAAAAAAABAAAAclYAAAAAAAAAVgAAAAAAAAABAAAAclUAAAAAAAAAVQAAAAAAAAABAAAAZVQAAAAAAAAAVAAAAAAAAAABAAAAaFMAAAAAAAAAUwAAAAAAAAABAAAAQw",
+							"AQAAAAAAAAABAAAAXgAAAAAAAABeAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							5,
+							1,
+							"paste",
+							null,
+							"AQAAADAAAAAAAAAAVAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAUwAAAAAAAABTAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							30,
+							"left_delete",
+							null,
+							"HgAAAHYAAAAAAAAAdgAAAAAAAAABAAAALXUAAAAAAAAAdQAAAAAAAAABAAAAa3QAAAAAAAAAdAAAAAAAAAABAAAAY3MAAAAAAAAAcwAAAAAAAAABAAAAYXIAAAAAAAAAcgAAAAAAAAABAAAAbHEAAAAAAAAAcQAAAAAAAAABAAAAQnAAAAAAAAAAcAAAAAAAAAABAAAALW8AAAAAAAAAbwAAAAAAAAABAAAAbG4AAAAAAAAAbgAAAAAAAAABAAAAYW0AAAAAAAAAbQAAAAAAAAABAAAAaWwAAAAAAAAAbAAAAAAAAAABAAAAcmsAAAAAAAAAawAAAAAAAAABAAAAZWoAAAAAAAAAagAAAAAAAAABAAAAdGkAAAAAAAAAaQAAAAAAAAABAAAAYWgAAAAAAAAAaAAAAAAAAAABAAAATWcAAAAAAAAAZwAAAAAAAAABAAAAPWYAAAAAAAAAZgAAAAAAAAABAAAAZWUAAAAAAAAAZQAAAAAAAAABAAAAbWQAAAAAAAAAZAAAAAAAAAABAAAAYWMAAAAAAAAAYwAAAAAAAAABAAAAbmIAAAAAAAAAYgAAAAAAAAABAAAALWEAAAAAAAAAYQAAAAAAAAABAAAAZWAAAAAAAAAAYAAAAAAAAAABAAAAbV8AAAAAAAAAXwAAAAAAAAABAAAAZV4AAAAAAAAAXgAAAAAAAAABAAAAaF0AAAAAAAAAXQAAAAAAAAABAAAAdFwAAAAAAAAAXAAAAAAAAAABAAAALVsAAAAAAAAAWwAAAAAAAAABAAAAbloAAAAAAAAAWgAAAAAAAAABAAAAb1kAAAAAAAAAWQAAAAAAAAABAAAAYw",
+							"AQAAAAAAAAABAAAAdwAAAAAAAAB3AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							7,
+							6,
+							"left_delete",
+							null,
+							"BgAAAFgAAAAAAAAAWAAAAAAAAAABAAAAaVcAAAAAAAAAVwAAAAAAAAABAAAALVYAAAAAAAAAVgAAAAAAAAABAAAAa1UAAAAAAAAAVQAAAAAAAAABAAAAdFQAAAAAAAAAVAAAAAAAAAABAAAAZ1MAAAAAAAAAUwAAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAWQAAAAAAAABZAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							8,
+							1,
+							"paste",
+							null,
+							"AQAAAFMAAAAAAAAAYQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAUwAAAAAAAABTAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							6,
+							"left_delete",
+							null,
+							"BgAAAC4AAAAAAAAALgAAAAAAAAABAAAAeS0AAAAAAAAALQAAAAAAAAABAAAAciwAAAAAAAAALAAAAAAAAAABAAAAcisAAAAAAAAAKwAAAAAAAAABAAAAZSoAAAAAAAAAKgAAAAAAAAABAAAAaCkAAAAAAAAAKQAAAAAAAAABAAAAQw",
+							"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAgHhA"
+						],
+						[
+							11,
+							1,
+							"paste",
+							null,
+							"AQAAACkAAAAAAAAANwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							12,
+							5,
+							"left_delete",
+							null,
+							"BQAAADYAAAAAAAAANgAAAAAAAAABAAAAdTUAAAAAAAAANQAAAAAAAAABAAAAcjQAAAAAAAAANAAAAAAAAAABAAAAdTMAAAAAAAAAMwAAAAAAAAABAAAAUzIAAAAAAAAAMgAAAAAAAAABAAAALQ",
+							"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/ghost/.config/gtk-3.0/settings.ini",
+				"/home/ghost/.config/qtile/settings/keys.py",
+				"/home/ghost/.config/qtile/settings/groups.py",
+				"/home/ghost/.config/qtile/themes/nord.json",
+				"/home/ghost/.config/qtile/settings/widgets.py",
+				"/home/ghost/.config/qtile/settings/screens.py",
+				"/home/ghost/.config/qtile/settings/layouts.py",
+				"/home/ghost/.config/qtile/config.py",
+				"/home/ghost/.config/qtile/settings/path.py",
+				"/home/ghost/.config/qtile/settings/__init__.py",
+				"/home/ghost/.config/qtile/settings/theme.py",
+				"/home/ghost/.config/qtile/config.json",
+				"/home/ghost/.config/qtile/themes/material-ocean.json",
+				"/home/ghost/.config/qtile/ls",
+				"/home/ghost/.config/qtile/qtile/settings/widgets.py",
+				"/home/ghost/qtile/settings/widgets.py",
+				"/home/ghost/.theme/set-themes.py",
+				"/home/ghost/.theme/theme.json",
+				"/home/ghost/.config/qtile/autostart.sh"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/ghost/.gtkrc-2.0",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 464,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										413,
+										413
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/ghost/.config/gtk-3.0/settings.ini",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 534,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										50,
+										50
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,0,21,1366,768,1366,768,1",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -1,0 +1,14 @@
+#History lists
+
+[shortcuts]
+".[path](null)"
+"Carpeta de inicio[path]/home/ghost"
+"Escritorio[path]/home/ghost/Desktop"
+"Colecciones[path]/home/ghost/.local/share/geeqie/collections"
+
+[path_list]
+"/home/ghost/Documentos"
+"/home/ghost"
+"/home/ghost/Imágenes"
+
+#end

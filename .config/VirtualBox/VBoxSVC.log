@@ -1,0 +1,45 @@
+00:00:00.022477 main     VirtualBox XPCOM Server 6.1.22 r144080 linux.amd64 (Jun 21 2021 10:09:41) release log
+00:00:00.022484 main     Log opened 2021-07-20T07:34:13.293196000Z
+00:00:00.022486 main     Build Type: release
+00:00:00.022501 main     OS Product: Linux
+00:00:00.022505 main     OS Release: 5.12.15-arch1-1
+00:00:00.022508 main     OS Version: #1 SMP PREEMPT Wed, 07 Jul 2021 23:35:29 +0000
+00:00:00.022557 main     DMI Product Name: Inspiron 14-3467
+00:00:00.022589 main     DMI Product Version: 
+00:00:00.022600 main     Firmware type: UEFI
+00:00:00.023144 main     Secure Boot: Disabled
+00:00:00.023253 main     Host RAM: 11840MB (11.5GB) total, 9174MB (8.9GB) available
+00:00:00.023262 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.023264 main     Process ID: 27608
+00:00:00.023266 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.028263 main     IPC socket path: /tmp/.vbox-ghost-ipc/ipcd
+00:00:00.161467 nspr-2   VirtualBox: object creation starts
+00:00:00.161714 nspr-2   Home directory: '/home/ghost/.config/VirtualBox'
+00:00:00.217010 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp1s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.219298 nspr-2   HostDnsMonitor: initializing
+00:00:00.220011 nspr-2   NAT: resolv.conf: nameserver 192.168.43.1
+00:00:00.220073 nspr-2   HostDnsMonitor: updating information
+00:00:00.220123 nspr-2   HostDnsMonitor: old information
+00:00:00.220132 nspr-2     no server entries
+00:00:00.220141 nspr-2     no domain set
+00:00:00.220147 nspr-2     no search string entries
+00:00:00.220154 nspr-2   HostDnsMonitor: new information
+00:00:00.220160 nspr-2     server 1: 192.168.43.1
+00:00:00.220168 nspr-2     no domain set
+00:00:00.220174 nspr-2     no search string entries
+00:00:00.275121 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.276107 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.277783 nspr-2   VirtualBox: object created
+00:00:08.096361 nspr-3   Saving settings file "/home/ghost/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:08.201048 nspr-3   Saving settings file "/home/ghost/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:08.268811 nspr-3   Saving settings file "/home/ghost/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:08.350267 nspr-3   Saving settings file "/home/ghost/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:08.416149 nspr-3   Saving settings file "/home/ghost/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:08.482304 nspr-2   Saving settings file "/home/ghost/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:08.551799 nspr-2   Saving settings file "/home/ghost/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:14.128927 main     VirtualBox: object deletion starts
+00:00:14.129532 main     HostDnsMonitor: shutting down ...
+00:00:14.134487 main     HostDnsMonitor: shut down
+00:00:14.282678 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:19.134755 main     {00007f909c016040} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:00:19.135463 main     VirtualBox: object deleted
